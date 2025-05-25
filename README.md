@@ -17,7 +17,7 @@ _A  Ping-Pong Game made with NodeJS. The user story for this game is to list out
 
 ## Setup/Installation
 * Open your git bash Terminal to Clone the Project with a (git clone _REPOSITORY_NAME_)
-* Ensure you have the .NET6.0 Framework Installed(I used .NET6.0.402 For this Application) on your PC and you must have done the essential steps to at least writing a NodeJS code in the REPL, with the 'node' command in a terminal
+* Ensure you have the NodejS Installed(I used NodeJs v22.14.0 For this Application) on your PC and you must have done the essential steps to at least start writing a NodeJS code in the REPL, with the 'node' command in a terminal
 * Run the application with 'node game' or node 'game.js'
 
 ## Detected Bugs/ Issues
@@ -30,5 +30,5 @@ Licensed under the GNU General Public License
 ## Contact Info
 * _You can contact me via email at emzzyoluwole@gmail.com_
 * _I'm on Instagram @Emmanuel.9944_
-* _I'm on Twitter username: @Emzzy241 or Profile Name: Dynasty_
+* _I'm on Twitter username: @EmmanuelMojiboy or Profile Name: Emmanuel Mojiboye_
 * _Github Username: Emzzy241_
